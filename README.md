@@ -1,6 +1,8 @@
 # 📁 Series File Renamer v1
 
-#### 🎥 Demo: <URL https://github.com/rominva/Series-File-Renamer/blob/main/assets/Series%20File%20Renamer%20v1%20-%20GIF%20Demo.gif>
+#### 🎥 Demo: 
+![Series File Renamer Demo](assets/demo.gif)
+
 
 #### 📝 Description:
 
