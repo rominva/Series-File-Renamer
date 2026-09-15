@@ -1,6 +1,6 @@
 # 📁 Series File Renamer v1
 
-#### 🎥 Demo: <URL https://github.com/rominva/Harvard-CS50P-Portfolio/tree/main/week9-et_cetera/Final%20Project/assets>
+#### 🎥 Demo: <URL https://github.com/rominva/Series-File-Renamer/blob/main/assets/Series%20File%20Renamer%20v1%20-%20GIF%20Demo.gif>
 
 #### 📝 Description:
 
